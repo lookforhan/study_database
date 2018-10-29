@@ -1,0 +1,6 @@
+PipeMaterial,AD,RC,LC,LL,LT
+Cast Iron,0.3,0.5,0.1,0.1,0
+Ductile Iron,0.8,0,0.1,0.1,0
+Riveted Steel,0.6,0,0.3,0.1,0
+Welded Steel,0,0,0,0,1
+Jointed Concrete,1,0,0,0,0
